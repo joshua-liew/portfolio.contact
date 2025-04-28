@@ -13,3 +13,13 @@ Use the GitHub Issues functionality to get in touch.
   - In the "Title" field, let me know your `name` and `contact information`.
   - In the comment body field, let me know that you would like to get in touch and how that could be done!
 - When you're finished, click `Submit new issue`.
+
+# 2. Discussions
+Use the GitHub Discussions funtionality to get in touch.
+[Steps](https://docs.github.com/en/discussions/quickstart#creating-a-new-discussion):
+- Click the `Discussions` tab.
+- On the right side of the page, start a `New discussion`.
+- Select the `General` or `Q&A` discussion category.
+  - Under "Discussion title", let me know your `name` and `contact information`.
+  - Under "Write", let me know that you would like to get in touch and how that could be done!
+- Once you're done, click `Start discussion`.
